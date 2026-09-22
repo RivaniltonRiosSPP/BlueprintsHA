@@ -38,6 +38,6 @@ action:
       hours: 0
       minutes: 0
       seconds: 0
-      milliseconds: 0
+      milliseconds: 1
 
 mode: single
